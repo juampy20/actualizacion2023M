@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1  tvg-logo="-" group-title="eventos",eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/08/18/Liga_de_Quito_vs_El_Nacio_20230818_1692390658032/ctr-all-complete.m3u8?|referer=https://clarovideo.latamtv.quest/
