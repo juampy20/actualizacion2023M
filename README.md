@@ -20,8 +20,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrYFmtwREN4pWEQ754PAolWSuXT
 
 
 
-
-
 MLS INTER MIAMI 2
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS INTER MIAMI", opcion 2
