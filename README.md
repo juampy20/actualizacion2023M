@@ -28,7 +28,11 @@ MLS INTER MIAMI 2
 https://ds1.sportea.online/stream/es2/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5MTc5OTM3OCZoYXNoX3ZhbHVlPVlUZGlZamxqT1RCaE9ETTRZbUV5TjJZMFpUaGhZVFZqTkdRMk1UVTFPR00mZXhwaXJ5PTE2OTE4MTAxNzgmaXA9NDUuNy4yMDkuMTk5
 
 
+MLS INTER MIAMI3
 
+#EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS INTER MIAMI", opcion 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://sb2.livemodo.click/3IazLVLC-cYHIWjWqqWiAA/1692516081/34352e372e3230392e313939/ff186/playlist.m3u8
 
 ---------------------ARGENTINAS --------------------------
 ----------------------------------------------------------
