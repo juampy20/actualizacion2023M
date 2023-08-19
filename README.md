@@ -25,7 +25,8 @@ MLS INTER MIAMI 2
 
 #EXTINF:-1 tvg-logo="https://www.goriverwalk.com/wp-content/uploads/2022/07/Inter-miami-logo.png" group-title="MLS INTER MIAMI", opcion 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ds1.sportea.online/stream/es2/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5MTc5OTM3OCZoYXNoX3ZhbHVlPVlUZGlZamxqT1RCaE9ETTRZbUV5TjJZMFpUaGhZVFZqTkdRMk1UVTFPR00mZXhwaXJ5PTE2OTE4MTAxNzgmaXA9NDUuNy4yMDkuMTk5
+https://ecloud.welive.sbs:8089/hls/iUAtC1knR175/index.m3u8?st=k3IEaKZwOHIxtXInHezxQQ&e=1692498960
+
 
 
 MLS INTER MIAMI3
