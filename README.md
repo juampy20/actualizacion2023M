@@ -1908,7 +1908,7 @@ https://dtvott-abc.akamaized.net/dash_live_1065/manifest.mpd
 ---------------------------------------------------------------------------------------------------
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="DEPORTES", 1999 TYC SPORTS https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TYC_SPORTS)/index.m3u8
 
 
 T Y C SPORTS
@@ -1920,7 +1920,7 @@ T Y C SPORTS
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="SPORTS TYC SPORTS PLAY",2000 TYC SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" group-title="SPORTS TYC SPORTS PLAY",2000 TYC SPORTS int
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
 
