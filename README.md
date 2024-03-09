@@ -1696,6 +1696,16 @@ https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP2MXHD)/manifest.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="SPORTS FOX SPORTS", 1 fox sports mexico 3
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",5 FOX SPORTS 2 ss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2122,7 +2132,15 @@ FORMULA 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8|Origin=https://weblivehdplay.ru/
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/moto-gp1175.logowik.com.webp" group-title="SPORTS DAZN", 1 fox sports mexico FORMULA 1
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
 
 
 DAZN 1 
