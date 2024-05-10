@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="-" group-title="🏀⚽⚾🏈🥎GUIA DE PROGRAMACION🏀⚽⚾🏈🥎",GUIA
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
