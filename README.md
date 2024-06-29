@@ -4,40 +4,7 @@
 #EXTINF:-1  group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png"  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" group-title="INTENSAMENTE 2 "LA PELICULA"", INTENSAMENTE 2
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yesx8sg6/media/hls/master.m3u8
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 13 Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af1d38723d0c3c8e8cb7d4453ba47d3e:b6f78e54681b209ceae4ed382bbe20fc
-https://1030-vos.dtvott.com/DASH/manifest.mpd
 
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", America Peru
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=191cb77dc62239db87596dec62c9b98f:9aea5f097603b3dc919ba86694c1a39d
-https://1011-vos.dtvott.com/DASH/manifest.mpd
-
-
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TV PUBLICA 
-https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -51,40 +18,10 @@ https://edge-live15-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal
 https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 
 
-#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png" tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", RCN Colombia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e86599387e4313a8e57a2732f5af261:8a9df0eee927df1a70814755566f3410
-#EXTVLCOPT:network-caching=1500
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://1185-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Viva Nicaragua
-https://www.dailymotion.com/cdn/live/video/x7u200z.m3u8?sec=65UI6evjgZYI_aTPFsxnh6loTym2T6ToFfSk-Tzo6AxS87FFUSeE_LnvIwBczNj5&dmTs=938647&dmV1st=19eea3cd-4f41-491e-8f13-9982682d66ba
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", exclusivo 365
+https://video-weaver.bue01.hls.live-video.net/v1/playlist/CsIFIju6vnXNlv4tsZqBsRXhYvruqDdqmq6mrOj-u5LgP8VDMkIPuQzwlmcmed-4pf9UmljUZ1LpgpWpmzoeSchFnIEnMfUUVnqRHnPmgZhNvqmsDVCDK873fdeZ5rUlVqbkooWXWIwpv4XPx6Mwk7yYRbqrHlbMVC-uPakocI8Wksl1npDv1gDaZ6k0-y_sUedYzQ1u_XMku2A_HHkZdibNgSYvU5bkflmshXy3t_6TON0GWzUXD6SRYytxIbCdvhM5N0cGgznmn9IC0PwcPPJ0C3WcgFV-0TphmM95l_X_RwoVLxkhA9zE-3EuuPvG7otTOT6TfhMh2hUHeK5-rfyhEjdyOQSmQXORoAaK1PvmPysJj-6XmMkcKyn17BQozq4uQlXXO_zCU_7p7jivRcFs8uuA5dMDnWyIaT0z58kpT9_83JUXumv10zccXur9s9obvGFhcwQrDtJP1hxEuUZhDDGS5-2FGfD6VPfJg2hyXgPpk_dsxnZcsgIYkDgv4QR1YUUzTgskQpEzk_kltZ5LQLVQ3n5bfHD7NkMHAcW2KLNH7I9OV2xDTQ1Y24Zi1UZjUp7wHy2g2WmqiLKl1VbewFtk2andycU3MGJApeZoINgR073pwvcwRagXV4SPPVzSlxpD9JGH0RX2YI2-_UF08HoQL-cV90HR95vnAjHuTYQ89s1MNezOF0zTtSxdZEh8y0aq2NkcbW9BW0NWoOCANSEfPdT4osaIL3389F3KOnhjqBO7UltOZjHlr17coQcSijHwxGLffFnS5U8J0e75Q8UU46r0_MuCy4qawE4RwwytWMK9X1jZaeG8i0f5Ql-6dkx7QbYIaaO-sXTcdptC8mNsKcP-T3fKF-gvHTMC7zBKaWh2UDCIyt7VXJhmvCs7UdJHrE6ubA9mHwtUb0rhepHIiHpfejJQdtD-dcNyC6WavxoMRgyfQFt0T9n6g7e4IAEqCXVzLWVhc3QtMTCZCA.m3u8
 
-
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png" group-title="Canales Copa America", TUDN Mexico
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", TV max Peru
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Mega Chile
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", WIN +
-https://78549.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=f94307dc0c837f6ab98e3c5b4f7832a5a4a110b4-bd-1718034146-1718023346
-
-
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", Canal 6 Honduras
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", 4 en vivo Salvador
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 
 --------------peru--------
@@ -106,43 +43,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 
-----------directv sports-----------
--------------------------------------
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports token
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n2.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=41EBZVTjwCvduI-eUDXyGg&expires=1719453716
-
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports token 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://55207.pricesaskeloadsc.com/dsports/tracks-v1a1/mono.m3u8?token=3abf73a2f6f51ceb3885a77b50363084854659ea-99-1719456858-1719446058
-
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports token 3
-https://008056.pricesaskeloadsc.com/dsports_2/tracks-v1a1/mono.m3u8?token=86a85ae035d9e1d980bf895aeb80568473bb805c-ed-1719456947-1719446147
-
-
-
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports http
-http://pe.shortgod.com/temporal/play.php?id=256
-
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports poc 2
-http://pe.shortgod.com/temporal/play.php?id=20
-
-
-
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports poc 2
-http://pe.shortgod.com/temporal/play.php?id=21
-
-
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DIRECTV SPORTS", Directv Sports poc 3
-http://pe.shortgod.com/temporal/play.php?id=22
 
 
 
@@ -3081,15 +2982,14 @@ canal excclusivo----
 
 
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO opcion 1 (🇦🇷) 
-https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png" group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,801 CANAL EXCLUSIVO opcion 2 (🇦🇷) 
-https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
 
-#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,801 CANAL EXCLUSIVO opcion 3 (🇦🇷) 
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUFK56xOcHX2bVQmRVwVoiJyQlN36-Z8k9eQMtpr_wxkAag-Q27WeR2a3_iZa0mhRHyKuZMlD_c0V0vvcf1ljcRc5ls3NNtcqCa20ekgdEb-wc49CEZeD8e8UJLVmJrwSkQ3uWBU8ICe81IleS6w4QxOsfgqx3SCjIhsUr1zF-wt5Gw3GRtt3Xd9zWL6Ak0GJlyh6riBY4uu6Q28J615MIc1T3Vbh0vQKvoSqhmZwVgRuMPxv8QiSFP4GLdTGhxUudRG-Rvn2Zc-fEUkkAYrZDy5E9Rhq1WLQSEgx8MLdnomUjUWe4oWCyOG-i2Tjt35oC6auexo7gsYQgG4-lKerm3V9h12OdeeNjehvNn8MvZM9D7YdvCBcn69Rdm6MSvk__WmplA5SIBurU0BP2Ul_rIJXykttM52D7W4Ahr--e7_FCtEFGx6YG5QRKjentt4OF94zNKMu5C5TOoE6wf_qnHgt6Ln4c5Tgaq5RTDTCNU0EPP1S2mUzjlyPw9zD5Cf_EUQz9m0oXlzMefl8LurhCsTiyKqw8FHZLJlm59gb3TtNYAf10midN21GzcFbC6dFm02czSQo1UDXTcbiW-iZ_4PndSsweLUxZFEFsYz3vTs7BzHFxznmQDu-YYI0WYFaG4jndYdTF5fjexk-vszBHjx85UDvKN5sEH2v8TMuKeEEklbohFmAq94htbEdi4dFFMQyl9N9EkArtDuBn7zgiMBDofHUkMpXyerJ6z_MrblfZbh9TlVvObb3tmxtMjv7-QbhQmkwQwvU_AP6s-2opNQd06LIIVW-pU6WTOgXbAN28ruPS21mJ4mEOG72ZZXqNo-DgtMff29W15bvb1hfBKb6XSLvwnTj7xi4Ae8DdQg2v6MiiO0ns6VlApqWCljy-5iIe6zl3C1VP9zzUgkUiU4GV6ASmXc9T3rFrTfKPjRE4ofvfK-rM1-lO76VUU1eRDKYvitEwaDKFj44g0alLi6fhXEyABKgl1cy1lYXN0LTEw_Qc.m3u8
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png" group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,801 CANAL EXCLUSIVO  
+https://video-weaver.bue01.hls.live-video.net/v1/playlist/CsIFIju6vnXNlv4tsZqBsRXhYvruqDdqmq6mrOj-u5LgP8VDMkIPuQzwlmcmed-4pf9UmljUZ1LpgpWpmzoeSchFnIEnMfUUVnqRHnPmgZhNvqmsDVCDK873fdeZ5rUlVqbkooWXWIwpv4XPx6Mwk7yYRbqrHlbMVC-uPakocI8Wksl1npDv1gDaZ6k0-y_sUedYzQ1u_XMku2A_HHkZdibNgSYvU5bkflmshXy3t_6TON0GWzUXD6SRYytxIbCdvhM5N0cGgznmn9IC0PwcPPJ0C3WcgFV-0TphmM95l_X_RwoVLxkhA9zE-3EuuPvG7otTOT6TfhMh2hUHeK5-rfyhEjdyOQSmQXORoAaK1PvmPysJj-6XmMkcKyn17BQozq4uQlXXO_zCU_7p7jivRcFs8uuA5dMDnWyIaT0z58kpT9_83JUXumv10zccXur9s9obvGFhcwQrDtJP1hxEuUZhDDGS5-2FGfD6VPfJg2hyXgPpk_dsxnZcsgIYkDgv4QR1YUUzTgskQpEzk_kltZ5LQLVQ3n5bfHD7NkMHAcW2KLNH7I9OV2xDTQ1Y24Zi1UZjUp7wHy2g2WmqiLKl1VbewFtk2andycU3MGJApeZoINgR073pwvcwRagXV4SPPVzSlxpD9JGH0RX2YI2-_UF08HoQL-cV90HR95vnAjHuTYQ89s1MNezOF0zTtSxdZEh8y0aq2NkcbW9BW0NWoOCANSEfPdT4osaIL3389F3KOnhjqBO7UltOZjHlr17coQcSijHwxGLffFnS5U8J0e75Q8UU46r0_MuCy4qawE4RwwytWMK9X1jZaeG8i0f5Ql-6dkx7QbYIaaO-sXTcdptC8mNsKcP-T3fKF-gvHTMC7zBKaWh2UDCIyt7VXJhmvCs7UdJHrE6ubA9mHwtUb0rhepHIiHpfejJQdtD-dcNyC6WavxoMRgyfQFt0T9n6g7e4IAEqCXVzLWVhc3QtMTCZCA.m3u8
+
+
+
 
 
 
