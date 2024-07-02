@@ -1,8 +1,178 @@
+
 #EXTM3U
+
+
+
+
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 1
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/9641/9641515.png"   group-title="EXCLUSIVO 365TV Digital" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/641/138/small/360-design-creative-concept-vector.jpg" ,800 CANAL EXCLUSIVO 2
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/1384/1384060.png"  tvg-logo="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" group-title="YouTube", youtube acceso directo
+https://www.youtube.com/
+
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+
+
+
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+
+
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+
+
+
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"   tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+
+
+
+#EXTINF:-1   group-logo="https://cdn-icons-png.flaticon.com/128/5344/5344453.png"  tvg-logo="https://banner2.cleanpng.com/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="Brasilerao liga ", br 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+
+
+
+
 
 
 #EXTINF:-1  group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png"  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5b3ef5178266173.653c678f16ee5.png" group-title="INTENSAMENTE 2 "LA PELICULA"", INTENSAMENTE 2
 https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/17/20/58/63r8Yesx8sg6/media/hls/master.m3u8
+
+
+
+
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS DEL FUEGO
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/16/7/A4iOBesHMMN9/media/hls/master.m3u8
+
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PIBES CHORROS
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/21/15/22/73ewHtp28pHc/media/hls/master.m3u8
+
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LOS PALMERAS
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/19/24/Qtfa04LcVrWr/media/hls/master.m3u8
+
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LA NUEVA LUNA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/20/7/OHu86dL4Cn3l/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", LO MAS ESCUCHADO 2024
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/13/23/31/nN2bC9YrDe8W/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", SABROSO
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/12/Bne2yymiFwR7/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", KARINA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/0/39/qH6rChcwhP3U/media/hls/master.m3u8
+
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", ANTO MATEI
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/12/20/xGEx3kygwYyP/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png"  tvg-logo="https://payload.cargocollective.com/1/5/180563/7550085/alta-cumbia_o.png" group-title="MUSICA PARA BAILAR", RODRIGO TAPARI
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/14/16/52/sVpQaOXKp3Um/media/hls/master.m3u8
+
+
+
+
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO EUROCOPA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/22/4/CvOvpYAjwLpo/media/hls/master.m3u8
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", FIXTURE COMPLETO COPA AMERICA
+https://stream.kick.com/ivs/v1/196233775518/PYxhleEAVCfA/2024/6/12/21/59/JEVOEe171n52/media/hls/master.m3u8
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EVENTOS 1
+https://edge-live31-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EVENTOS 2
+https://edge-live32-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"  tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", LA1 españa (toda la eurocopa)
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 
 
@@ -19,8 +189,16 @@ https://edge-live34-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/Tel
 
 
 
-#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", exclusivo 365
-https://video-weaver.bue01.hls.live-video.net/v1/playlist/CsIFIju6vnXNlv4tsZqBsRXhYvruqDdqmq6mrOj-u5LgP8VDMkIPuQzwlmcmed-4pf9UmljUZ1LpgpWpmzoeSchFnIEnMfUUVnqRHnPmgZhNvqmsDVCDK873fdeZ5rUlVqbkooWXWIwpv4XPx6Mwk7yYRbqrHlbMVC-uPakocI8Wksl1npDv1gDaZ6k0-y_sUedYzQ1u_XMku2A_HHkZdibNgSYvU5bkflmshXy3t_6TON0GWzUXD6SRYytxIbCdvhM5N0cGgznmn9IC0PwcPPJ0C3WcgFV-0TphmM95l_X_RwoVLxkhA9zE-3EuuPvG7otTOT6TfhMh2hUHeK5-rfyhEjdyOQSmQXORoAaK1PvmPysJj-6XmMkcKyn17BQozq4uQlXXO_zCU_7p7jivRcFs8uuA5dMDnWyIaT0z58kpT9_83JUXumv10zccXur9s9obvGFhcwQrDtJP1hxEuUZhDDGS5-2FGfD6VPfJg2hyXgPpk_dsxnZcsgIYkDgv4QR1YUUzTgskQpEzk_kltZ5LQLVQ3n5bfHD7NkMHAcW2KLNH7I9OV2xDTQ1Y24Zi1UZjUp7wHy2g2WmqiLKl1VbewFtk2andycU3MGJApeZoINgR073pwvcwRagXV4SPPVzSlxpD9JGH0RX2YI2-_UF08HoQL-cV90HR95vnAjHuTYQ89s1MNezOF0zTtSxdZEh8y0aq2NkcbW9BW0NWoOCANSEfPdT4osaIL3389F3KOnhjqBO7UltOZjHlr17coQcSijHwxGLffFnS5U8J0e75Q8UU46r0_MuCy4qawE4RwwytWMK9X1jZaeG8i0f5Ql-6dkx7QbYIaaO-sXTcdptC8mNsKcP-T3fKF-gvHTMC7zBKaWh2UDCIyt7VXJhmvCs7UdJHrE6ubA9mHwtUb0rhepHIiHpfejJQdtD-dcNyC6WavxoMRgyfQFt0T9n6g7e4IAEqCXVzLWVhc3QtMTCZCA.m3u8
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EXCLUSIVO 1 365
+https://cdnhd.iblups.com/hls/eAVfMIubth.m3u8
+
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", EXCLUSIVO 2 365 
+https://cdnhd.iblups.com/hls/wCdPAY5bmT.m3u8
+
+#EXTINF:-1  group-logo="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"   tvg-logo="https://www.shutterstock.com/image-vector/dhaka-bangladesh-october-06-2023-260nw-2371494987.jpg" group-title="Canales Copa America", ingles
+https://goozp.flkof9jk8ujjjs.shop/playlist/23464/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8
+
 
 
 
